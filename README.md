@@ -13,6 +13,7 @@ Step 2: Record your question about the uploaded image.
  ![image](https://github.com/Uddeshya8272/Multimodal_AI_Chat/assets/118058617/057127eb-c9fc-4ccd-90cf-1eef56a6020a)
 
 Step 3: Click on "Submit."
+
 ![image](https://github.com/Uddeshya8272/Multimodal_AI_Chat/assets/118058617/ee8b00d6-300e-4742-956a-e061956b201e)
 
  
