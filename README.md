@@ -5,8 +5,8 @@ Initial Interface:
 
 This streamlined user manual outlines the simple steps for using the Multimodal AI Voice Assistant for image-based queries. 
 Steps to be followed:
+
 Step 1: Upload an image from your computer, copy and paste an image, or turn on the webcam and click a picture.
- 
  ![image](https://github.com/Uddeshya8272/Multimodal_AI_Chat/assets/118058617/ce785e1c-c2ba-4697-9f1b-206ecd735803)
 
 Step 2: Record your question about the uploaded image.
@@ -30,6 +30,7 @@ Step 6: An audio response will be generated.
 
 
 Final Interface:
+
  ![image](https://github.com/Uddeshya8272/Multimodal_AI_Chat/assets/118058617/b81f09f2-d159-40ca-990d-6655b90aafa1)
 
 
